@@ -8,4 +8,5 @@ A collection of useful rules and commands for Cursor IDE.
 
 ## Available Commands
 
-- [Commit Organizer](./commands/commit.md) - Stage changes and generate commit messages following conventions
+- [commit](./commands/commit.md) - Stage changes and generate commit messages following conventions
+- [review](./commands/review.md) - Review unstaged changes for functionality, quality, and security
